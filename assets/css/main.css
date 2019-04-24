@@ -3141,7 +3141,7 @@ input, select, textarea {
 				}
 
 					.wrapper.featured > .inner > .image img {
-						border-radius: 100%;
+						border-radius: 20px;
 						width: 100%;
 					}
 
